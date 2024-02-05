@@ -1,0 +1,9 @@
+[submodule "fiapstore-cobranca-service"]
+	path = fiapstore-cobranca-service
+	url = https://github.com/santos-gabriel/fiapstore-cobranca-service.git
+[submodule "fiapstore-pedido-service"]
+	path = fiapstore-pedido-service
+	url = https://github.com/santos-gabriel/fiapstore-pedido-service.git
+[submodule "fiapstore-entrega-service"]
+	path = fiapstore-entrega-service
+	url = https://github.com/santos-gabriel/fiapstore-entrega-service.git
